@@ -1,0 +1,6 @@
+{
+  "name": "Aerolog — Pilot Flight Logbook",
+  "description": "Electronic pilot flying hours logbook with Google Sheets sync, AppSheet schema and CSV import, currency tracking, and fleet analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
